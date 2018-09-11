@@ -1,0 +1,5 @@
+ckpt
+data
+glove
+*.pyc
+*.sh
